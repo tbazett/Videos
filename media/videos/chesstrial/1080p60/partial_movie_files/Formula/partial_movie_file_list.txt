@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/1080p60/partial_movie_files/Formula/3977891868_240893473_223132457.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/1080p60/partial_movie_files/Formula/2852726489_1704852926_2856855895.mp4'

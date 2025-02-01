@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/1185818338_3649372508_652043436.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_4135911532.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_1422617207.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_234249766.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_3327088724.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_3311349958.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_3844481923.mp4'
-file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/superknight/624642324_1959358871_2474348554.mp4'
