@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/1185818338_123554531_1105197510.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_359699058.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_2370701718.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_3496419812.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_813655375.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_875814271.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_2924288138.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_178516297.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_fill_in_numbers/624642324_1704852926_3889736397.mp4'

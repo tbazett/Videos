@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_to_points/1185818338_2028766910_777880768.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Chess_to_points/624642324_1704852926_1128413063.mp4'

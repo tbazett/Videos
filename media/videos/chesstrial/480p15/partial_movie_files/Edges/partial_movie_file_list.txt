@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/1185818338_2717876874_1123668933.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_2599015230_445911652.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_2583935583_3363405546.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_1704852926_1198190208.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_1704852926_2012206473.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_1959358871_3731318872.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_1959358871_3022620998.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/chesstrial/480p15/partial_movie_files/Edges/624642324_1704852926_1613882458.mp4'

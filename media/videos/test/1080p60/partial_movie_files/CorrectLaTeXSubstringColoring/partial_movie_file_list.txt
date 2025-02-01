@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/test/1080p60/partial_movie_files/CorrectLaTeXSubstringColoring/3977891868_123554531_1226847026.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/test/1080p60/partial_movie_files/CorrectLaTeXSubstringColoring/2852726489_3957018180_4227516557.mp4'
+file 'file:C:/Users/tbazett/OneDrive - University of Victoria/Documents/Manim/chess/media/videos/test/1080p60/partial_movie_files/CorrectLaTeXSubstringColoring/2852726489_1704852926_909905321.mp4'

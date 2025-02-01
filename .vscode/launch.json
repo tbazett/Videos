@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Run Manim",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": [
+                "-pql",
+                "${input:sceneClassName}"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
